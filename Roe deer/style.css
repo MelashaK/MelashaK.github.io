@@ -1,0 +1,29 @@
+#main_div {
+    margin-top: 250px;
+    margin-bottom: 300px;
+    text-align: center;
+    font-size: 3rem;
+}
+
+#information_container {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+
+.box {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+
+.box img {
+    max-width: 600px;
+    max-height: 800px;
+}
+
+.box a {
+    text-decoration: none;
+    color: #555;
+    font-size: 3rem;
+}
