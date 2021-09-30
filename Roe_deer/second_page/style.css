@@ -1,0 +1,12 @@
+#back {
+    font-size: 1.5rem;
+}
+
+#list p {
+    font-size: 1.5rem
+}
+
+#list img {
+    max-width: 600px;
+    max-height: 500px;
+}
